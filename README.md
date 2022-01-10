@@ -1,3 +1,3 @@
-##Title
-- Backend yang digunakan untuk App Fashion
-- Using NestJs
+## Tentang App Fashion
+
+Backend untuk Fashion App menggunakan nestJs 
